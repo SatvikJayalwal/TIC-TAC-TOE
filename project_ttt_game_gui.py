@@ -1,10 +1,7 @@
-from email import message
-from glob import glob
-from pydoc import cli
 from tkinter import*
 from tkinter import messagebox
 import tkinter as tk
-from turtle import bgcolor
+
 root=Tk()
 root.title("TIC TAC TOE")
 clicked=True
